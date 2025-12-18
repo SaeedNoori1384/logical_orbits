@@ -1,0 +1,15 @@
+D:/Users/asaidea.ir/Desktop/Question_1/Question_1.v {1 {vlog -work work D:/Users/asaidea.ir/Desktop/Question_1/Question_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Question_1
+
+Top level modules:
+	Question_1
+
+} {} {}} D:/Users/asaidea.ir/Desktop/Question_1/Question_1_tb.v {1 {vlog -work work D:/Users/asaidea.ir/Desktop/Question_1/Question_1_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Question_1_tb
+
+Top level modules:
+	Question_1_tb
+
+} {} {}}
